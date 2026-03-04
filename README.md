@@ -30,4 +30,7 @@
  >feat: agrega automatización de usuarios
 
  # Autor
-Cortes González pedro iván
+[Cortes González pedro iván]()
+
+## Node 
+- [Node](./.github/assets/doc/node.md)
